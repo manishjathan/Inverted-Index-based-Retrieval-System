@@ -63,6 +63,4 @@ def create_posting_lists(token_tuple_list):
 
 
 
-token_tuple_list = create_token_tuples(["Hello World","World Hello","Hi Manish"])
-map = create_posting_lists(token_tuple_list)
-print(map['hello'])
+
